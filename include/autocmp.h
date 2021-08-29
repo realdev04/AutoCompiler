@@ -71,7 +71,6 @@ private:
 public:
     autocmp(int _argc, char **_argv);
     ~autocmp();
-    void init(int _argc, char **_argv);
     int run();
 };
 
